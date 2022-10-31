@@ -646,7 +646,7 @@ select {
 }
 
 .jumbotron {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./images/anteojito.webp);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/anteojito.webp);
     background-position: center;
     background-size: cover;
     margin-right: 0px;
@@ -664,97 +664,97 @@ select {
 
 
 .item1 {
-    background-image: url(./images/anteojo1.jpg);
+    background-image: url(../images/anteojo1.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .item2 {
-    background-image: url(./images/anteojo2.webp);
+    background-image: url(../images/anteojo2.webp);
     background-size: cover;
     background-position: center;
 }
 
 .item3 {
-    background-image: url(./images/anteojo3.jpg);
+    background-image: url(../images/anteojo3.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .item4 {
-    background-image: url(./images/anteojo4.jpg);
+    background-image: url(../images/anteojo4.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .item5 {
-    background-image: url(./images/anteojo6.jpg);
+    background-image: url(../images/anteojo6.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .item6 {
-    background-image: url(./images/anteojo5.jpg);
+    background-image: url(../images/anteojo5.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .item7 {
-    background-image: url(./images/anteojo7.jpg);
+    background-image: url(../images/anteojo7.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .item8 {
-    background-image: url(./images/anteojo8.jpg);
+    background-image: url(../images/anteojo8.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .item9 {
-    background-image: url(./images/anteojo9.jpg);
+    background-image: url(../images/anteojo9.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .item10 {
-    background-image: url(./images/anteojo10.jpg);
+    background-image: url(../images/anteojo10.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .item11 {
-    background-image: url(./images/anteojo11.jpg);
+    background-image: url(../images/anteojo11.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .item12 {
-    background-image: url(./images/anteojo12.jpg);
+    background-image: url(../images/anteojo12.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .item13 {
-    background-image: url(./images/anteojo101.jpg);
+    background-image: url(../images/anteojo101.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .item14 {
-    background-image: url(./images/anteojo14.webp);
+    background-image: url(../images/anteojo14.webp);
     background-size: cover;
     background-position: center;
 }
 
 .item15 {
-    background-image: url(./images/anteojo15.jpg);
+    background-image: url(../images/anteojo15.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .item16 {
-    background-image: url(./images/anteojo16.jpg);
+    background-image: url(../images/anteojo16.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -807,7 +807,7 @@ select {
 }
 
 .jumbotron-gorra {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./images/gorra118.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/gorra118.jpg);
     background-position: center;
     background-size: cover;
     margin-right: 0px;
@@ -825,97 +825,97 @@ select {
 }
 
 .gitem1 {
-    background-image: url(./images/gorra101.jpg);
+    background-image: url(../images/gorra101.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .gitem2 {
-    background-image: url(./images/gorra102.jpg);
+    background-image: url(../images/gorra102.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .gitem3 {
-    background-image: url(./images/gorra103.jpg);
+    background-image: url(../images/gorra103.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .gitem4 {
-    background-image: url(./images/gorra104.jpg);
+    background-image: url(../images/gorra104.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .gitem5 {
-    background-image: url(./images/gorra105.jpg);
+    background-image: url(../images/gorra105.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .gitem6 {
-    background-image: url(./images/gorra106.jpg);
+    background-image: url(../images/gorra106.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .gitem7 {
-    background-image: url(./images/gorra107.jpg);
+    background-image: url(../images/gorra107.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .gitem8 {
-    background-image: url(./images/gorra108.jpg);
+    background-image: url(../images/gorra108.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .gitem9 {
-    background-image: url(./images/gorra109.jpg);
+    background-image: url(../images/gorra109.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .gitem10 {
-    background-image: url(./images/gorra110.jpg);
+    background-image: url(../images/gorra110.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .gitem11 {
-    background-image: url(./images/gorra111.jpg);
+    background-image: url(../images/gorra111.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .gitem12 {
-    background-image: url(./images/gorra112.jpg);
+    background-image: url(../images/gorra112.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .gitem13 {
-    background-image: url(./images/gorra113.jpg);
+    background-image: url(../images/gorra113.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .gitem14 {
-    background-image: url(./images/gorra114.jpg);
+    background-image: url(../images/gorra114.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .gitem15 {
-    background-image: url(./images/gorra115.jpg);
+    background-image: url(../images/gorra115.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .gitem16 {
-    background-image: url(./images/gorra116.jpg);
+    background-image: url(../images/gorra116.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -949,7 +949,7 @@ select {
 }
 
 .jumbotron-armazon{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./images/armazon2.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/armazon2.jpg);
     background-position: center;
     background-size: cover;
     height: 400px;
@@ -965,7 +965,7 @@ select {
     }
 
 .fotoaro {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./images/armazon101.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/armazon101.jpg);
     background-position: center;
     background-size: cover;
     height: 400px;
@@ -1006,7 +1006,7 @@ select {
 }
 
 .fotoranurado {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./images/armazon.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/armazon.jpg);
     background-position: center;
     background-size: cover;
     height: 400px;
@@ -1020,7 +1020,7 @@ select {
 }
 
 .trespiezas {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./images/armazon103.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/armazon103.jpg);
     background-position: center;
     background-size: cover;
     height: 400px;
@@ -1043,7 +1043,7 @@ select {
 
 .text-trespiezas {
     text-align: center;
-    color: blue;
+    color: white;
     margin: 80px;
 }
 
