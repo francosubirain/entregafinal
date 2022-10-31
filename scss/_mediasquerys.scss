@@ -1,0 +1,133 @@
+
+@media screen and (max-width:768px) {
+
+    .grid-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 100px;
+        padding: 10px;
+        gap: 10px;
+        text-align: center;
+        background-color: beige;
+
+    }
+
+    .grid-item:nth-child(1) {
+        grid-row-start: 2 span;
+    }
+
+    .grid-item:nth-child(2) {
+        grid-column-start: 1 span;
+    }
+
+    .grid-item:nth-child(3) {
+        grid-row-start: 2 span;
+    }
+
+    .grid-item:nth-child(5) {
+        grid-row-start: 1 span;
+    }
+
+    .grid-item:nth-child(6) {
+        grid-column-start: 2 span;
+    }
+
+    .grid-item:nth-child(8) {
+        grid-row-start: span;
+    }
+
+    .grid-item:nth-child(10) {
+        grid-column-start: 1 span;
+    }
+
+    .grid-item:nth-child(11) {
+        grid-column-start: 2 span;
+
+    }
+
+    .grid-item:nth-child(12) {
+        grid-column-start: 1 span;
+    }
+
+    .grid-item:nth-child(13) {
+        grid-column-start: 1 span;
+    }
+
+    .grid-item:nth-child(14) {
+        grid-column-start: 1 span;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+
+    .sabias h2{
+        font-size: 5px;
+    }
+
+}
+
+@media screen and (max-width:420) {
+
+    .container-armazon h2{
+        font-size: 5px;
+    }
+
+
+
+    .grid-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 100px;
+        padding: 10px;
+        gap: 10px;
+        text-align: center;
+        background-color: beige;
+    }
+
+    .grid-item:nth-child(1) {
+        grid-row-start: 1 span;
+    }
+
+    .grid-item:nth-child(2) {
+        grid-column-start: 1 span;
+    }
+
+    .grid-item:nth-child(3) {
+        grid-row-start: 2 span;
+    }
+
+    .grid-item:nth-child(5) {
+        grid-row-start: 1 span;
+    }
+
+    .grid-item:nth-child(6) {
+        grid-column-start: 1 span;
+    }
+
+    .grid-item:nth-child(8) {
+        grid-row-start: 2 span;
+    }
+
+    .grid-item:nth-child(10) {
+        grid-column-start: 1 span;
+    }
+
+    .grid-item:nth-child(11) {
+        grid-column-start: 1 span;
+
+    }
+
+    .grid-item:nth-child(12) {
+        grid-column-start: 1 span;
+    }
+
+    .grid-item:nth-child(13) {
+        grid-column-start: 1 span;
+    }
+
+    .grid-item:nth-child(14) {
+        grid-column-start: 1 span;
+    }
+
+}

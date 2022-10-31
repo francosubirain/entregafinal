@@ -1,0 +1,32 @@
+.navbar {
+    background-color: $Bordocito;
+    margin-bottom: 0px;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    color: $Blanquito;
+}
+
+.navbar-nav li {
+    color: white;
+
+}
+
+.nav-link {
+    color: $Blanquito;
+    font-size: 20px;
+}
+
+.nav-link:hover {
+    color: black;
+}
+
+.navbar-brand:hover {
+    color: black;
+}
+
+.navbar-toggler-icon{
+    color: white;
+    box-shadow: 0 0 5px black;
+}
