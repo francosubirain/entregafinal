@@ -27,23 +27,6 @@
 
 /*------- MAIN ------- */
 
-
-
-
-
-
-
-.border-card {
-
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-right: 20px;
-
-}
-
-
-
 .h2 {
     font-family: 'Roboto', sans-serif;
 }
@@ -798,6 +781,8 @@ select {
     color: white;
     text-align: center;
 }
+
+
 
 .carousel-caption {
     text-align: center;

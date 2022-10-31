@@ -1,0 +1,80 @@
+
+.formulario-contacto legend {
+    color: gray;
+    text-align: center;
+    border-radius: 10px solid black;
+}
+
+.formulario-contacto form {
+    background-color: aqua;
+    width: 40%;
+    margin: 15px;
+
+
+}
+
+
+.formulario-contacto input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box
+}
+
+.formulario-contacto input[type=submit] {
+    width: 100%;
+    display: block;
+    background-color: gray;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+
+.formulario-contacto input[type=reset] {
+    width: 100%;
+    background-color: gray;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+.formulario-contacto input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.formulario-contacto input[type=number] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.formulario-contacto textarea {
+    width: 100%;
+
+    margin: 4px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
