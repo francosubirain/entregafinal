@@ -17,6 +17,20 @@
     font-family: 'Roboto', sans-serif;
 }
 
+@mixin cover-center {
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+.gitem1, .gitem2, .gitem3, .gitem4, .gitem5, .gitem6, .gitem7, .gitem8,
+.gitem9, .gitem10, .gitem11, .gitem12, .gitem13, .gitem14, .gitem15, .gitem16,
+.jumbotron-armazon, .fotoaro, .fotoranurado, .trespiezas, .jumbotron,
+.item1, .item2, .item3, .item4, .item5, .item6, .item7, .item8, .item9, .item10,
+.item11, .item12, .item13, .item14, .item15, .item16{
+    @include cover-center;
+}
 
 
 .carousel-caption {
