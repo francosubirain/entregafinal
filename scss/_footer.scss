@@ -4,20 +4,21 @@
     margin-bottom: 0px;
     color: rgb(78, 47, 47);
     padding-top: 10px;
-    background-color:$Blanquito;
+    background-color: $Blanquito;
 
+    p {
+        color: $Bordocito;
+    }
+
+    address {
+        color: $Bordocito;
+    }
+
+    & i:hover {
+        transform: scale(2);
+    transition: all 1s ease;
+    }
 }
-
-.contactanos p {
-    color: $Bordocito;
-
-}
-
-.contactanos address {
-    color:$Bordocito;
-}
-
-
 
 h5 {
     color: $Bordocito;
@@ -27,47 +28,35 @@ h5 {
     text-align: right;
     margin: 10px;
     padding: 10px;
-}
 
-.contacto nav {
-    color: $Bordocito;
-}
+    nav {
+        color: $Bordocito;
+    }
 
-.contacto a {
-    color: $Bordocito;
+    a {
+        color: $Bordocito;
+    }
 }
 
 .redes {
-
     text-align: center;
     color: $Bordocito;
-}
 
-.redes a {
-    color: $Bordocito;
-}
+    a {
+        color: $Bordocito;
+    }
 
-.redes a i {
-    font-size: 15px;
-    color: $Bordocito;
+    & i {
+        font-size: 15px;
+        color: $Bordocito;
+    }
 
-}
-
-.redes a i:hover {
-    transform: scale(2);
-    transition: all 1s ease;
-}
-
-.volver-inicio {
-    color: $Bordocito;
-}
-
-.arriba a {
-    color: $Blanquito;
-}
-
-.contactanos i:hover {
-    transform: scale(2);
-    transition: all 1s ease;
+    & i:hover {
+        transform: scale(2);
+        transition: all 1s ease;
+    }
 
 }
+
+
+

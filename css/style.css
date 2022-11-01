@@ -5,12 +5,13 @@
   color: #4e2f2f;
   padding-top: 10px;
   background-color: white; }
-
-.contactanos p {
-  color: #4e2f2f; }
-
-.contactanos address {
-  color: #4e2f2f; }
+  .contactanos p {
+    color: #4e2f2f; }
+  .contactanos address {
+    color: #4e2f2f; }
+  .contactanos i:hover {
+    transform: scale(2);
+    transition: all 1s ease; }
 
 h5 {
   color: #4e2f2f; }
@@ -19,106 +20,83 @@ h5 {
   text-align: right;
   margin: 10px;
   padding: 10px; }
-
-.contacto nav {
-  color: #4e2f2f; }
-
-.contacto a {
-  color: #4e2f2f; }
+  .contacto nav {
+    color: #4e2f2f; }
+  .contacto a {
+    color: #4e2f2f; }
 
 .redes {
   text-align: center;
   color: #4e2f2f; }
-
-.redes a {
-  color: #4e2f2f; }
-
-.redes a i {
-  font-size: 15px;
-  color: #4e2f2f; }
-
-.redes a i:hover {
-  transform: scale(2);
-  transition: all 1s ease; }
-
-.volver-inicio {
-  color: #4e2f2f; }
-
-.arriba a {
-  color: white; }
-
-.contactanos i:hover {
-  transform: scale(2);
-  transition: all 1s ease; }
-
-.formulario-contacto legend {
-  color: gray;
-  text-align: center;
-  border-radius: 10px solid black; }
-
-.formulario-contacto form {
-  background-color: aqua;
-  width: 40%;
-  margin: 15px; }
-
-.formulario-contacto input[type=text] {
-  width: 100%;
-  padding: 12px 20px;
-  margin: 8px 0;
-  display: inline-block;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box; }
-
-.formulario-contacto input[type=submit] {
-  width: 100%;
-  display: block;
-  background-color: gray;
-  color: white;
-  padding: 14px 20px;
-  margin: 8px 0;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer; }
-
-.formulario-contacto input[type=reset] {
-  width: 100%;
-  background-color: gray;
-  color: white;
-  padding: 14px 20px;
-  margin: 8px 0;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer; }
-
-.formulario-contacto input[type=email] {
-  width: 100%;
-  padding: 12px 20px;
-  margin: 8px 0;
-  display: inline-block;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box; }
-
-.formulario-contacto input[type=number] {
-  width: 100%;
-  padding: 12px 20px;
-  margin: 8px 0;
-  display: inline-block;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box; }
-
-.formulario-contacto textarea {
-  width: 100%;
-  margin: 4px 0;
-  display: inline-block;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box; }
+  .redes a {
+    color: #4e2f2f; }
+  .redes i {
+    font-size: 15px;
+    color: #4e2f2f; }
+  .redes i:hover {
+    transform: scale(2);
+    transition: all 1s ease; }
 
 .formulario-contacto {
   margin: 0%; }
+  .formulario-contacto legend {
+    color: gray;
+    text-align: center;
+    border-radius: 10px solid black; }
+  .formulario-contacto form {
+    background-color: aqua;
+    width: 40%;
+    margin: 15px; }
+  .formulario-contacto textarea {
+    width: 100%;
+    margin: 4px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box; }
+  .formulario-contacto input[type=number] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box; }
+  .formulario-contacto input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box; }
+  .formulario-contacto input[type=reset] {
+    width: 100%;
+    background-color: gray;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer; }
+  .formulario-contacto input[type=submit] {
+    width: 100%;
+    display: block;
+    background-color: gray;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer; }
+  .formulario-contacto input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box; }
 
 .jumbotron-gorra {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/gorra118.jpg);
@@ -230,9 +208,6 @@ h5 {
   background-size: cover;
   height: 400px; }
 
-.container-armazon h1 {
-  color: white; }
-
 .container-armazon {
   text-align: center;
   color: white; }
@@ -335,6 +310,9 @@ h5 {
 .table {
   color: white;
   text-align: center; }
+
+.gafas-sol {
+  color: white; }
 
 .item {
   height: 400px;
@@ -533,9 +511,6 @@ h5 {
   box-sizing: border-box; }
 
 .body {
-  font-family: 'Roboto', sans-serif; }
-
-.h2 {
   font-family: 'Roboto', sans-serif; }
 
 .carousel-caption {
