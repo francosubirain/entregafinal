@@ -117,20 +117,30 @@ h5 {
 .text-porque {
   margin-top: 180px; }
 
+.franja-roja {
+  background-color: #4e2f2f;
+  color: white;
+  text-align: center;
+  height: 200px;
+  padding: 50px; }
+  .franja-roja h2 {
+    font-size: 40px; }
+
+.franja-blanca {
+  background-color: white;
+  color: #4e2f2f;
+  text-align: center;
+  height: 200px;
+  padding: 50px; }
+
 .gitem1 {
-  background-image: url(../images/gorra101.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/gorra101.jpg); }
 
 .gitem2 {
-  background-image: url(../images/gorra102.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/gorra102.jpg); }
 
 .gitem3 {
-  background-image: url(../images/gorra103.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/gorra103.jpg); }
 
 .gitem4 {
   background-image: url(../images/gorra104.jpg);
@@ -138,14 +148,10 @@ h5 {
   background-position: center; }
 
 .gitem5 {
-  background-image: url(../images/gorra105.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/gorra105.jpg); }
 
 .gitem6 {
-  background-image: url(../images/gorra106.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/gorra106.jpg); }
 
 .gitem7 {
   background-image: url(../images/gorra107.jpg);
@@ -153,49 +159,31 @@ h5 {
   background-position: center; }
 
 .gitem8 {
-  background-image: url(../images/gorra108.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/gorra108.jpg); }
 
 .gitem9 {
-  background-image: url(../images/gorra109.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/gorra109.jpg); }
 
 .gitem10 {
-  background-image: url(../images/gorra110.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/gorra110.jpg); }
 
 .gitem11 {
-  background-image: url(../images/gorra111.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/gorra111.jpg); }
 
 .gitem12 {
-  background-image: url(../images/gorra112.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/gorra112.jpg); }
 
 .gitem13 {
-  background-image: url(../images/gorra113.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/gorra113.jpg); }
 
 .gitem14 {
-  background-image: url(../images/gorra114.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/gorra114.jpg); }
 
 .gitem15 {
-  background-image: url(../images/gorra115.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/gorra115.jpg); }
 
 .gitem16 {
-  background-image: url(../images/gorra116.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/gorra116.jpg); }
 
 .cap :hover {
   box-shadow: 10px 10px 10px black;
@@ -204,8 +192,6 @@ h5 {
 
 .jumbotron-armazon {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/armazon2.jpg);
-  background-position: center;
-  background-size: cover;
   height: 400px; }
 
 .container-armazon {
@@ -214,8 +200,6 @@ h5 {
 
 .fotoaro {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/armazon101.jpg);
-  background-position: center;
-  background-size: cover;
   height: 400px;
   border: 2px solid black; }
 
@@ -248,8 +232,6 @@ h5 {
 
 .fotoranurado {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/armazon.jpg);
-  background-position: center;
-  background-size: cover;
   height: 400px;
   border-bottom: 2px solid black; }
 
@@ -259,8 +241,6 @@ h5 {
 
 .trespiezas {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/armazon103.jpg);
-  background-position: center;
-  background-size: cover;
   height: 400px;
   border-right: 2px solid black;
   border-left: 2px solid black;
@@ -283,8 +263,6 @@ h5 {
 
 .jumbotron {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/anteojito.webp);
-  background-position: center;
-  background-size: cover;
   margin-right: 0px;
   margin-bottom: 0%;
   border-radius: 0%; }
@@ -321,84 +299,52 @@ h5 {
   margin-right: 0%; }
 
 .item1 {
-  background-image: url(../images/anteojo1.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/anteojo1.jpg); }
 
 .item2 {
-  background-image: url(../images/anteojo2.webp);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/anteojo2.webp); }
 
 .item3 {
-  background-image: url(../images/anteojo3.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/anteojo3.jpg); }
 
 .item4 {
-  background-image: url(../images/anteojo4.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/anteojo4.jpg); }
 
 .item5 {
-  background-image: url(../images/anteojo6.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/anteojo6.jpg); }
 
 .item6 {
-  background-image: url(../images/anteojo5.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/anteojo5.jpg); }
 
 .item7 {
-  background-image: url(../images/anteojo7.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/anteojo7.jpg); }
 
 .item8 {
-  background-image: url(../images/anteojo8.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/anteojo8.jpg); }
 
 .item9 {
-  background-image: url(../images/anteojo9.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/anteojo9.jpg); }
 
 .item10 {
-  background-image: url(../images/anteojo10.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/anteojo10.jpg); }
 
 .item11 {
-  background-image: url(../images/anteojo11.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/anteojo11.jpg); }
 
 .item12 {
-  background-image: url(../images/anteojo12.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/anteojo12.jpg); }
 
 .item13 {
-  background-image: url(../images/anteojo101.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/anteojo101.jpg); }
 
 .item14 {
-  background-image: url(../images/anteojo14.webp);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/anteojo14.webp); }
 
 .item15 {
-  background-image: url(../images/anteojo15.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/anteojo15.jpg); }
 
 .item16 {
-  background-image: url(../images/anteojo16.jpg);
-  background-size: cover;
-  background-position: center; }
+  background-image: url(../images/anteojo16.jpg); }
 
 .item1 :hover {
   box-shadow: 10px 10px 10px black;
@@ -436,74 +382,33 @@ h5 {
   box-shadow: 0 0 5px black; }
 
 @media screen and (max-width: 768px) {
-  .grid-container {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: 100px;
-    padding: 10px;
-    gap: 10px;
+  .franja-roja {
+    background-color: #4e2f2f;
+    color: white;
     text-align: center;
-    background-color: beige; }
-  .grid-item:nth-child(1) {
-    grid-row-start: 2 span; }
-  .grid-item:nth-child(2) {
-    grid-column-start: 1 span; }
-  .grid-item:nth-child(3) {
-    grid-row-start: 2 span; }
-  .grid-item:nth-child(5) {
-    grid-row-start: 1 span; }
-  .grid-item:nth-child(6) {
-    grid-column-start: 2 span; }
-  .grid-item:nth-child(8) {
-    grid-row-start: span; }
-  .grid-item:nth-child(10) {
-    grid-column-start: 1 span; }
-  .grid-item:nth-child(11) {
-    grid-column-start: 2 span; }
-  .grid-item:nth-child(12) {
-    grid-column-start: 1 span; }
-  .grid-item:nth-child(13) {
-    grid-column-start: 1 span; }
-  .grid-item:nth-child(14) {
-    grid-column-start: 1 span; }
-  h1 {
-    font-size: 40px; }
-  .sabias h2 {
-    font-size: 5px; } }
+    height: 400px; }
+    .franja-roja h2 {
+      padding-top: 100px;
+      font-size: 30px; }
+  .franja-blanca {
+    background-color: white;
+    color: #4e2f2f;
+    text-align: center;
+    height: 400px; } }
 
 @media screen and (max-width: 420) {
-  .container-armazon h2 {
-    font-size: 5px; }
-  .grid-container {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: 100px;
-    padding: 10px;
-    gap: 10px;
+  .franja-roja {
+    background-color: #4e2f2f;
+    color: white;
     text-align: center;
-    background-color: beige; }
-  .grid-item:nth-child(1) {
-    grid-row-start: 1 span; }
-  .grid-item:nth-child(2) {
-    grid-column-start: 1 span; }
-  .grid-item:nth-child(3) {
-    grid-row-start: 2 span; }
-  .grid-item:nth-child(5) {
-    grid-row-start: 1 span; }
-  .grid-item:nth-child(6) {
-    grid-column-start: 1 span; }
-  .grid-item:nth-child(8) {
-    grid-row-start: 2 span; }
-  .grid-item:nth-child(10) {
-    grid-column-start: 1 span; }
-  .grid-item:nth-child(11) {
-    grid-column-start: 1 span; }
-  .grid-item:nth-child(12) {
-    grid-column-start: 1 span; }
-  .grid-item:nth-child(13) {
-    grid-column-start: 1 span; }
-  .grid-item:nth-child(14) {
-    grid-column-start: 1 span; } }
+    height: 400px; }
+    .franja-roja h2 {
+      font-size: 40px; }
+  .franja-blanca {
+    background-color: white;
+    color: #4e2f2f;
+    text-align: center;
+    height: 400px; } }
 
 * {
   padding: 0%;
@@ -512,6 +417,14 @@ h5 {
 
 .body {
   font-family: 'Roboto', sans-serif; }
+
+.gitem1, .gitem2, .gitem3, .gitem4, .gitem5, .gitem6, .gitem7, .gitem8,
+.gitem9, .gitem10, .gitem11, .gitem12, .gitem13, .gitem14, .gitem15, .gitem16,
+.jumbotron-armazon, .fotoaro, .fotoranurado, .trespiezas, .jumbotron,
+.item1, .item2, .item3, .item4, .item5, .item6, .item7, .item8, .item9, .item10,
+.item11, .item12, .item13, .item14, .item15, .item16 {
+  background-size: cover;
+  background-position: center; }
 
 .carousel-caption {
   text-align: center;

@@ -21,6 +21,28 @@
     margin-top: 180px;
 }
 
+.franja-roja{
+    background-color: $Bordocito;
+    color: $Blanquito;
+    text-align: center;
+    height: 200px;
+    padding: 50px;
+          
+    h2{
+        font-size: 40px;
+    }
+}
+
+
+
+.franja-blanca{
+    background-color: $Blanquito;
+    color: $Bordocito;
+    text-align: center;
+    height: 200px;
+    padding: 50px;
+}
+
 
 .gitem1 {
     background-image: url(../images/gorra101.jpg);

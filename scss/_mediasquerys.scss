@@ -1,132 +1,48 @@
 @media screen and (max-width:768px) {
-
-    .grid-container {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        grid-template-rows: 100px;
-        padding: 10px;
-        gap: 10px;
+    .franja-roja{
+        background-color: $Bordocito;
+        color: $Blanquito;
         text-align: center;
-        background-color: beige;
-
+        height: 400px;
+        
+              
+        h2{
+            padding-top: 100px;
+            font-size: 30px;
+        }
     }
 
-    .grid-item:nth-child(1) {
-        grid-row-start: 2 span;
-    }
-
-    .grid-item:nth-child(2) {
-        grid-column-start: 1 span;
-    }
-
-    .grid-item:nth-child(3) {
-        grid-row-start: 2 span;
-    }
-
-    .grid-item:nth-child(5) {
-        grid-row-start: 1 span;
-    }
-
-    .grid-item:nth-child(6) {
-        grid-column-start: 2 span;
-    }
-
-    .grid-item:nth-child(8) {
-        grid-row-start: span;
-    }
-
-    .grid-item:nth-child(10) {
-        grid-column-start: 1 span;
-    }
-
-    .grid-item:nth-child(11) {
-        grid-column-start: 2 span;
-
-    }
-
-    .grid-item:nth-child(12) {
-        grid-column-start: 1 span;
-    }
-
-    .grid-item:nth-child(13) {
-        grid-column-start: 1 span;
-    }
-
-    .grid-item:nth-child(14) {
-        grid-column-start: 1 span;
-    }
-
-    h1 {
-        font-size: 40px;
-    }
-
-    .sabias h2 {
-        font-size: 5px;
+    .franja-blanca{
+        background-color: $Blanquito;
+        color: $Bordocito;
+        text-align: center;
+        height: 400px;
+        
     }
 
 }
 
 @media screen and (max-width:420) {
 
-    .container-armazon h2 {
-        font-size: 5px;
-    }
-
-
-
-    .grid-container {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: 100px;
-        padding: 10px;
-        gap: 10px;
+    .franja-roja{
+        background-color: $Bordocito;
+        color: $Blanquito;
         text-align: center;
-        background-color: beige;
+        height: 400px;
+                     
+        h2{
+            font-size: 40px;
+        }
     }
 
-    .grid-item:nth-child(1) {
-        grid-row-start: 1 span;
-    }
 
-    .grid-item:nth-child(2) {
-        grid-column-start: 1 span;
+    .franja-blanca{
+        background-color: $Blanquito;
+        color: $Bordocito;
+        text-align: center;
+        height: 400px;
+        
     }
-
-    .grid-item:nth-child(3) {
-        grid-row-start: 2 span;
-    }
-
-    .grid-item:nth-child(5) {
-        grid-row-start: 1 span;
-    }
-
-    .grid-item:nth-child(6) {
-        grid-column-start: 1 span;
-    }
-
-    .grid-item:nth-child(8) {
-        grid-row-start: 2 span;
-    }
-
-    .grid-item:nth-child(10) {
-        grid-column-start: 1 span;
-    }
-
-    .grid-item:nth-child(11) {
-        grid-column-start: 1 span;
-
-    }
-
-    .grid-item:nth-child(12) {
-        grid-column-start: 1 span;
-    }
-
-    .grid-item:nth-child(13) {
-        grid-column-start: 1 span;
-    }
-
-    .grid-item:nth-child(14) {
-        grid-column-start: 1 span;
-    }
+    
 
 }
