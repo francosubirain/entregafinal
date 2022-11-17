@@ -388,13 +388,21 @@ h5 {
     text-align: center;
     height: 400px; }
     .franja-roja h2 {
-      padding-top: 100px;
-      font-size: 30px; }
+      padding-top: 180px;
+      font-size: 60px; }
   .franja-blanca {
     background-color: white;
     color: #4e2f2f;
     text-align: center;
-    height: 400px; } }
+    height: 400px; }
+  .sabias {
+    text-align: center;
+    margin: 100px;
+    color: white;
+    font-size: 60px; }
+  .table {
+    width: 50%;
+    font-size: 12px; } }
 
 @media screen and (max-width: 420) {
   .franja-roja {
@@ -403,12 +411,16 @@ h5 {
     text-align: center;
     height: 400px; }
     .franja-roja h2 {
-      font-size: 40px; }
+      font-size: 40px;
+      padding-top: 380px; }
   .franja-blanca {
     background-color: white;
     color: #4e2f2f;
     text-align: center;
-    height: 400px; } }
+    height: 400px; }
+  .table {
+    width: 50%;
+    font-size: 12px; } }
 
 * {
   padding: 0%;
